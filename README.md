@@ -1,6 +1,4 @@
-Sure! Here's a well-structured `README.md` file for your eCommerce website project:
 
----
 
 ```markdown
 # 🛍️ Ecommerce Website
@@ -41,7 +39,11 @@ ecommerce-website/
 
 ## 📸 Screenshots
 
-> _Add screenshots of your homepage, product cards, mobile view, etc. here if available_
+![c](https://github.com/user-attachments/assets/4ea8ccc8-0832-46b5-9a70-6624c051f05c)
+![b](https://github.com/user-attachments/assets/da292834-a3cf-4237-802c-578ed1708216)
+![a](https://github.com/user-attachments/assets/5873e0d8-7a89-4db7-873b-999175854da9)
+![f](https://github.com/user-attachments/assets/9adc7b85-e4cf-441b-8c5c-74fd13f3ad6e)
+
 
 ## 📌 How to Use
 
@@ -67,16 +69,11 @@ ecommerce-website/
 - Improve accessibility and SEO
 
 ## 🙋‍♂️ Author
+![e](https://github.com/user-attachments/assets/4846de75-41e6-4b0e-8e90-6e4934f9f708)
+![d](https://github.com/user-attachments/assets/f2b114dd-e1d2-4f2f-9c07-1640be8a70fb)
 
 **Ahmed Khaled Elmetwaly**  
 Frontend Developer & Designer
 
----
 
-> 📬 For feedback or questions, feel free to open an issue or reach out via GitHub!
 
-```
-
----
-
-Let me know if you want a version in Arabic as well, or if you'd like to include your social media, portfolio, or GitHub links!
